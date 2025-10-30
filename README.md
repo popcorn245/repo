@@ -35,8 +35,8 @@ All frontend apps consume the shared component library using proper npm workspac
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
-cd org
+git clone https://github.com/popcorn245/repo.git
+cd repo
 
 # Install dependencies (use legacy-peer-deps due to Storybook v10)
 npm install --legacy-peer-deps
