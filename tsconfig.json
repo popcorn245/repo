@@ -8,6 +8,28 @@
     },
     {
       "path": "./apps/snout"
+    },
+    {
+      "path": "./apps/nextjs-site-e2e"
+    },
+    {
+      "path": "./apps/nextjs-site"
+    },
+    {
+      "path": "./apps/components"
+    },
+    {
+      "path": "./apps/astro-site"
+    },
+    {
+      "path": "./apps/vite-app"
     }
-  ]
+  ],
+  "ts-node": {
+    "compilerOptions": {
+      "module": "commonjs",
+      "moduleResolution": "node10",
+      "customConditions": null
+    }
+  }
 }

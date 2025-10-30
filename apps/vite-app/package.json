@@ -1,0 +1,15 @@
+{
+  "name": "@org/vite-app",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "@org/components": "*",
+    "@tanstack/react-router": "^1.77.3",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@tanstack/router-devtools": "^1.77.3",
+    "@tanstack/router-plugin": "^1.77.0"
+  }
+}
